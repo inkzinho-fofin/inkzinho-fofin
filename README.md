@@ -8246,6 +8246,5 @@ end
               end
           end
       end)
-  else
-  game.Players.LocalPlayer:kick("ola,se você está vendo isso é por que houve um erro no servidor,ou você tentou executar em outro jogo,caso esteja dando erro me informe...")
+  else  game.Players.LocalPlayer:kick("ola,se você está vendo isso é por que houve um erro no servidor,ou você tentou executar em outro jogo,caso esteja dando erro me informe...")
   end
